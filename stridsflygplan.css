@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(29, 17, 17);
+    
+}
+
+.main-grid {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}

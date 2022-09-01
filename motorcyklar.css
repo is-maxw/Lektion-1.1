@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(29, 17, 17);
+    
+}
+
+
+.main-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 2fr;
+    margin-left: 35px;
+}
+
+.bild-grid {
+    border: 8px solid white;
+    
+}
+
+.bild-grid2 {
+    border: 8px solid white;
+}
+
+h2 {
+    color: white;
+}
